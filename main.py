@@ -19,4 +19,6 @@ for f in flights:
     print(price)
     print('=' * 40)
 
+
+
 driver.close()
